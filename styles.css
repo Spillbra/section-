@@ -19,5 +19,9 @@ font-family: "Monsterat", Arial, Helvetica, sans-serif;
 footer{
     background: #efefef;
     padding: 100px
-    text-align: center;
+    text-alig: center;
 }
+
+/* Path: index.html */
+<!DOCTYPE html>
+<html lang="en">
