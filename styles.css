@@ -1,0 +1,23 @@
+html{
+scroll-behavior: smooth;
+}
+body{
+    font-family: "Roboto", Verdana, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+}
+nav{
+    position: fixed;
+    top: 0px;
+    height: 40px;
+    width: 100%;
+    background: #efefef;
+}
+h2{
+font-family: "Monsterat", Arial, Helvetica, sans-serif;
+}
+footer{
+    background: #efefef;
+    padding: 100px
+    text-align: center;
+}
